@@ -1,8 +1,14 @@
 [
     {
         "nombre": "Hecha de Estrellas",
-        "imagen": "imagenes/portada.jpg"
+        "imagen": "imagenes/portadas/portada.jpg"
     },
-    {},
-    {}
+    {
+        "nombre": "Tierra",
+        "imagen": "imagenes/portadas/portada2.jpg"
+    },
+    {
+        "nombre": "Seras",
+        "imagen": "imagenes/portadas/portada3.jpg"
+    }
 ]
